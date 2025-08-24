@@ -41,6 +41,36 @@
             100% { top: 30%; left: 40%; color: #6366f1; }
         }
 
+/*         h1 {
+  position: absolute;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #1f2937;
+  animation: floatAround 15s infinite alternate ease-in-out;
+}
+
+h1:hover {
+  animation: floatCrazy 5s infinite alternate ease-in-out;
+  color: #ef4444;
+}
+
+@keyframes floatAround {
+  0%   { top: 10%; left: 10%; color: #3b82f6; }
+  25%  { top: 20%; left: 70%; color: #10b981; }
+  50%  { top: 70%; left: 60%; color: #f59e0b; }
+  75%  { top: 60%; left: 20%; color: #ef4444; }
+  100% { top: 30%; left: 40%; color: #6366f1; }
+}
+
+@keyframes floatCrazy {
+  0%   { top: 5%; left: 80%; }
+  25%  { top: 90%; left: 70%; }
+  50%  { top: 40%; left: 20%; }
+  75%  { top: 70%; left: 10%; }
+  100% { top: 30%; left: 50%; }
+}
+ */
+
         /* Buttons container */
         .buttons {
             position: relative;
